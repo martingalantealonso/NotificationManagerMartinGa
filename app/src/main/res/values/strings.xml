@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationManagerMartinGa</string>
+    <string name="add_notification">Add Notification</string>
+    <string name="add_custom_notification">Add custom Notification</string>
+</resources>
